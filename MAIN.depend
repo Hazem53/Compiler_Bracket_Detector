@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714660383 source:c:\users\hazem\desktop\haha\main.cpp
+	<iostream>
+	<string.h>
+	"stackk.h"
+
+1714602145 c:\users\hazem\desktop\haha\stackk.h
+	<iostream>
+	<string.h>
+

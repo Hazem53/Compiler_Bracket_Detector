@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714416640 source:c:\users\hazem\desktop\lab1\dsp\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
